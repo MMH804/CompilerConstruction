@@ -1,0 +1,16 @@
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\bin\Debug\net6.0-windows\LAB5_055.exe
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\bin\Debug\net6.0-windows\LAB5_055.deps.json
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\bin\Debug\net6.0-windows\LAB5_055.runtimeconfig.json
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\bin\Debug\net6.0-windows\LAB5_055.dll
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\bin\Debug\net6.0-windows\LAB5_055.pdb
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.Form1.resources
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.csproj.GenerateResource.cache
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.AssemblyInfoInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.AssemblyInfo.cs
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.csproj.CoreCompileInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.dll
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\refint\LAB5_055.dll
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.pdb
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\LAB5_055.genruntimeconfig.cache
+C:\Users\TECHNIFI\source\repos\LAB5_055\LAB5_055\obj\Debug\net6.0-windows\ref\LAB5_055.dll
