@@ -1,0 +1,16 @@
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\bin\Debug\net6.0-windows\LAB_06.exe
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\bin\Debug\net6.0-windows\LAB_06.deps.json
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\bin\Debug\net6.0-windows\LAB_06.runtimeconfig.json
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\bin\Debug\net6.0-windows\LAB_06.dll
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\bin\Debug\net6.0-windows\LAB_06.pdb
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.Form1.resources
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.csproj.GenerateResource.cache
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.AssemblyInfoInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.AssemblyInfo.cs
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.csproj.CoreCompileInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.dll
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\refint\LAB_06.dll
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.pdb
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\LAB_06.genruntimeconfig.cache
+C:\Users\TECHNIFI\source\repos\LAB#06\LAB#06\obj\Debug\net6.0-windows\ref\LAB_06.dll
