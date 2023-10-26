@@ -1,0 +1,17 @@
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\bin\Debug\net6.0-windows\LAB-MID-055.exe
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\bin\Debug\net6.0-windows\LAB-MID-055.deps.json
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\bin\Debug\net6.0-windows\LAB-MID-055.runtimeconfig.json
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\bin\Debug\net6.0-windows\LAB-MID-055.dll
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\bin\Debug\net6.0-windows\LAB-MID-055.pdb
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB_MID_055.Form1.resources
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB_MID_055.Q3.resources
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.csproj.GenerateResource.cache
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.AssemblyInfoInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.AssemblyInfo.cs
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.csproj.CoreCompileInputs.cache
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.dll
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\refint\LAB-MID-055.dll
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.pdb
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\LAB-MID-055.genruntimeconfig.cache
+C:\Users\TECHNIFI\source\repos\LAB-MID-055\LAB-MID-055\obj\Debug\net6.0-windows\ref\LAB-MID-055.dll
